@@ -15,5 +15,5 @@ Here are some ideas to get you started:
  </a><a href="">
   <img src="//logo.clearbit.com/instagram.com?size=80&greyscale=true">
  </a><a href="">
-  <img src="//logo.clearbit.com/facebook.com?size=80&greyscale=true">
+  <img src="//logo.clearbit.com/facebook.com>
  </a>
