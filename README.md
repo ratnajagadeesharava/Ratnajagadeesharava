@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" />
