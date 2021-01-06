@@ -10,3 +10,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: arj15@iitbbs.ac.in
 
 ### Connect With Me
+<a href="">
+  <img src="//logo.clearbit.com/linkedin.cn?size=80&greyscale=true">
+ </a><a href="">
+  <img src="//logo.clearbit.com/instagram.com?size=80&greyscale=true">
+ </a><a href="">
+  <img src="//logo.clearbit.com/facebook.com?size=80&greyscale=true">
+ </a>
