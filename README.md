@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ## CodingProfiles
 
 [BinarySearch](https://binarysearch.com/@/jagadeesharava)
+
 [LeetCode](https://leetcode.com/arj15/)
 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ratna_jagadeesh_arava/profile)
 
