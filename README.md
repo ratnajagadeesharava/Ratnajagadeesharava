@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on dating site clone
 - 🌱 I’m currently learning Asp.NetCore,Angular
-- 📫 How to reach me: arj15@iitbbs.ac.in
+- 📫 You can reach me at: arj15@iitbbs.ac.in
+
