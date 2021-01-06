@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/ratna-jagadeesh-arava-5930a0152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ratna-jagadeesh-arava-5930a0152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" /></a>
 <a href="https://www.instagram.com/_arava.jagadeesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arava.jagadeesh" height="30" width="30" /></a>
 <a href="https://facebook.com/ratnajagadeesh.arava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ratnajagadeesh.arava" height="30" width="30" /></a>
 
+### Languages and Tools
 
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" />
