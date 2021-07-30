@@ -5,9 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on dating site clone
+- 🔭 I’m currently working on personal project with .Net and angular
 - 🌱 I’m currently learning Asp.NetCore,Angular
-- 📫 You can reach me at: arj15@iitbbs.ac.in
+- 📫 You can reach me at: ratnajagadeesh.arava@outlook.in
 
 ### Connect With Me
 
