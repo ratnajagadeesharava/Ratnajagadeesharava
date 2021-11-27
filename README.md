@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal project with .Net and angular
+- 🔭 I’m currently working in Brane Enterprises as Associate Solution Leader(Frontend)
 - 🌱 I’m currently learning Asp.NetCore,Angular
 - 📫 You can reach me at: ratnajagadeesh.arava@outlook.in
 
