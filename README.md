@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Brane Enterprises as Associate Solution Leader(Frontend)
-- 🌱 I’m currently learning Asp.NetCore,Angular
+- 🌱 I’m currently learning Computer Graphics
 - 📫 You can reach me at: ratnajagadeesh.arava@outlook.in
 
 ### Connect With Me
