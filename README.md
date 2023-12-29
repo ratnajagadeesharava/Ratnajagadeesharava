@@ -4,14 +4,14 @@
 **Ratnajagadeesharava/Ratnajagadeesharava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working in Brane Enterprises as Associate Solution Leader(Frontend)
-- 🌱 I’m currently learning Computer Graphics
+- 🔭 I’m currently working in Brane Enterprises as Associate Solution Leader(Frontend Developer)
+- 🌱 I’m currently learning Computer Graphics and ML
 - 📫 You can reach me at: ratnajagadeesh.arava@outlook.in
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/ratna-jagadeesh-arava-5930a0152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ratna-jagadeesh-arava-5930a0152" height="30" width="30" /></a>
-<a href="[https://www.instagram.com/_arava.jagadeesh/](https://www.instagram.com/__arava.jagadeesh__/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arava.jagadeesh" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ratna-jagadeesh-arava-5930a0152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ratna-jagadeesh-arava-5930a0152"  height="30" width="30" /></a>
+<a href="[https://www.instagram.com/_arava.jagadeesh/](https://www.instagram.com/__arava.jagadeesh__/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arava.jagadeesh" height="30" width="30" style="color:white" /></a>
 <a href="https://facebook.com/ratnajagadeesh.arava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ratnajagadeesh.arava" height="30" width="30" /></a>
 
 ### Languages and Tools
