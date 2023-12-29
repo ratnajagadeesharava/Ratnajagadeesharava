@@ -29,7 +29,7 @@ Graduated from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 - <a href="https://facebook.com/ratnajagadeesh.arava" target="blank">Facebook</a>
 
 
-## Tech and Coding profiles
+## Coding profiles
 - [BinarySearch](https://binarysearch.com/@/jagadeesharava)
 
 - [LeetCode](https://leetcode.com/arj15/)
