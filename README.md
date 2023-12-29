@@ -1,28 +1,40 @@
-### Hi there 👋 I'm Jagadeesh
+# Hi there, I'm Jagadeesh Arava! 👋
 
-<!--
-**Ratnajagadeesharava/Ratnajagadeesharava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a <span style="color: #2ecc71;">Software Developer</span> from India passionate about <span style="color: #3498db;">Game Development</span>.
 
-- 🔭 I’m currently working in Brane Enterprises as Associate Solution Leader(Frontend Developer)
-- 🌱 I’m currently learning Computer Graphics and ML
-- 📫 You can reach me at: ratnajagadeesh.arava@outlook.in
+Graduated from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 
-### Connect With Me
+## About Me
 
-<a href="https://www.linkedin.com/in/ratna-jagadeesh-arava-5930a0152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ratna-jagadeesh-arava-5930a0152"  height="30" width="30" /></a>
-<a href="[https://www.instagram.com/_arava.jagadeesh/](https://www.instagram.com/__arava.jagadeesh__/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arava.jagadeesh" height="30" width="30" style="color:white" /></a>
-<a href="https://facebook.com/ratnajagadeesh.arava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ratnajagadeesh.arava" height="30" width="30" /></a>
+- 🌟 I love <span style="color: #9b59b6;">Math, Gaming and Cricket</span>.
+- 💻 I'm currently working in <span style="color: #2ecc71;">Brane Enterprises</span> as <span> Angular Develeoper</span>
+- 🌱 I'm currently learning <span style="color: #3498db;">Shaders  </span> and <span style="color:#3498db">Pwning</span>
+- 💬 Ask me about <span style="color: #9b59b6;">C#, Angular, Windows  </span>.
+- 📫 You can reach me at: ratnajagadeesh.arava@outlook.in .
 
-### Languages and Tools
+## Languages and Tools
 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="" height="30" width="30" />  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="" height="30" width="30" />  <img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="" height="30" width="30" />  <img align="center" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="" height="30" width="30" />  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" alt="" height="30" width="30" />  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHyROKqpfLS1Vzb8FARQ09WWlLlZpSBAedg&usqp=CAU" alt="" height="30" width="30" />  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kWF8fprEalrSieOB58NHqkQaSextIWGBpg&usqp=CAU" alt="" height="30" width="30" />
+- <span style="color: #2ecc71;"> C#, Java, python, TypeScript</span>
+- <span style="color: #3498db;">Angular, Unity, Asp.Net Core</span>
+<!-- - <span style="color: #9b59b6;">[Any other relevant information]</span> -->
 
-## CodingProfiles
+## My GitHub Stats
 
-[BinarySearch](https://binarysearch.com/@/jagadeesharava)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratnajagadeesharava&show_icons=true&theme=radical)
 
-[LeetCode](https://leetcode.com/arj15/)
+## Connect with Me
 
-[GeeksForGeeks](https://auth.geeksforgeeks.org/user/ratna_jagadeesh_arava/profile)
+- <a href="https://www.linkedin.com/in/ratna-jagadeesh-arava/" target="blank">Linkedin</a>
+- <a href="https://www.instagram.com/_arava.jagadeesh/" target="blank">Instagram</a>
+- <a href="https://facebook.com/ratnajagadeesh.arava" target="blank">Facebook</a>
 
+
+## Tech and Coding profiles
+- [BinarySearch](https://binarysearch.com/@/jagadeesharava)
+
+- [LeetCode](https://leetcode.com/arj15/)
+
+- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ratna_jagadeesh_arava/profile)
+
+
+Feel free to reach out and connect! 😊
