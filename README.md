@@ -2,7 +2,7 @@
 
 I'm a <span style="color: #2ecc71;">Software Developer</span> from India passionate about <span style="color: #3498db;">Game Development</span>.
 
-Graduated from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
+Graduate from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 
 ## About Me
 
