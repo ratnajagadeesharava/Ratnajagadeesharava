@@ -7,7 +7,7 @@ Graduate from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 ## About Me
 
 - 🌟 I love <span style="color: #9b59b6;">Math, Gaming and Cricket</span>.
-- 💻 I'm currently working in <span style="color: #2ecc71;">Brane Enterprises</span> as <span> Angular Develeoper</span>
+- 💻 I'm currently working in <span style="color: #2ecc71;">Brane Enterprises</span> as <span> Angular Developer</span>
 - 🌱 I'm currently learning <span style="color: #3498db;">Shaders  </span> and <span style="color:#3498db">Pwning</span>
 - 💬 Ask me about <span style="color: #9b59b6;">C#, Angular, Windows  </span>.
 - 📫 You can reach me at: ratnajagadeesh.arava@outlook.in .
@@ -22,6 +22,8 @@ Graduate from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratnajagadeesharava&show_icons=true&theme=gruvbox)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ratnajagadeesharava&theme=gruvbox)
+
+
 <a href="https://github.com/Ratnajagadeesharava/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnajagadeesharava&theme=gruvbox" />
 </a>
