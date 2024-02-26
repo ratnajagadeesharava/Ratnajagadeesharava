@@ -8,8 +8,8 @@ Graduate from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 
 - 🌟 I love <span style="color: #9b59b6;">Math, Gaming and Cricket</span>.
 - 💻 I'm currently working in <span style="color: #2ecc71;">Brane Enterprises</span> as <span> Angular Developer</span>
-- 🌱 I'm currently learning <span style="color: #3498db;">Shaders  </span> and <span style="color:#3498db">Pwning</span>
-- 💬 Ask me about <span style="color: #9b59b6;">C#, Angular, Windows  </span>.
+- 🌱 I'm currently learning <span style="color: #3498db;">Game Engines  </span> and <span style="color:#3498db">Pwning</span>
+- 💬 Ask me about <span style="color: #9b59b6;">C#,C++, Angular, Windows  </span>.
 - 📫 You can reach me at: ratnajagadeesh.arava@outlook.in .
 
 ## Languages and Tools
