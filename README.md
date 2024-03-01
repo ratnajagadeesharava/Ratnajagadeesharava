@@ -14,8 +14,8 @@ Graduate from <span style="color: #2ecc71;"> IIT Bhubaneswar </span>
 
 ## Languages and Tools
 
-- <span style="color: #2ecc71;"> C#, Java, python, TypeScript</span>
-- <span style="color: #3498db;">Angular, Unity, Asp.Net Core</span>
+- <span style="color: #2ecc71;"> C#, C++, python, TypeScript</span>
+- <span style="color: #3498db;">Angular, Unity</span>
 <!-- - <span style="color: #9b59b6;">[Any other relevant information]</span> -->
 
 ## My GitHub Stats
